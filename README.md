@@ -1,1 +1,1 @@
-# game-sellign-website-chatgpt
+# game-selling-website-chatgpt
